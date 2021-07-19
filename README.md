@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+An enthusiastic engineer &amp; certified python developer with a keen interest and experience in Back-end development with 3.5 years of experience.
+I am graduated from the Pune University in 2017 with a bachelor's degree in information technology with a CGPA of 8.5. 
