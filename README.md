@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <!--
 **slalit360/slalit360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
